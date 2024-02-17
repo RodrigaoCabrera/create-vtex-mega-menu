@@ -1,0 +1,20 @@
+{
+  "name": "create-mega-menu",
+  "vendor": "laesquinadelneumatico",
+  "version": "0.0.1",
+  "title": "Example Admin App",
+  "description": "",
+  "scripts": {
+    "postreleasy": "vtex publish"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x"
+  },
+  "builders": {
+    "react": "3.x",
+    "admin": "0.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

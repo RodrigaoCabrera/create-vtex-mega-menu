@@ -1,0 +1,10 @@
+{
+  "admin.app.create-menu": {
+    "component": "CreateMegaMenu",
+    "path": "/admin/app/create-menu"
+  },
+  "admin.app.create-menu-detail": {
+    "component": "CreateMegaMenuItem",
+    "path": "/admin/app/create-menu/:id"
+  }
+}
