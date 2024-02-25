@@ -1,13 +1,13 @@
 {
   "section": "orders",
-  "titleId": "admin-example.navigation.label-group",
+  "titleId": "create-mega-menu.navigation.label-group",
   "subSection": "create-menu",
-  "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
+  "searchKeyWordsHelpers": "create-mega-menu.navigation.search.kws",
   "subSectionItems": [
     {
-      "labelId": "admin-example.navigation.label-table",
+      "labelId": "create-mega-menu.navigation.label-table",
       "path": "/admin/create-menu",
-      "searchKeyWordsHelpers": "admin-example.navigation.table.search.kws"
+      "searchKeyWordsHelpers": "create-mega-menu.navigation.table.search.kws"
     }
   ]
 }

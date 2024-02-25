@@ -1,10 +1,11 @@
 {
-  "name": "vtex.admin-example",
+  "name": "vtex.create-mega-menu",
   "version": "0.0.12",
   "devDependencies": {
     "@types/node": "^11.12.1",
     "@types/react": "^16.8.10",
     "@types/react-intl": "^2.3.17",
+    "@vtex/prettier-config": "^1.0.0",
     "@vtex/tsconfig": "^0.4.4",
     "apollo-client": "^2.4.7",
     "graphql": "^14.0.2",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "@types/faker": "^4.1.5",
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "xlsx": "^0.18.5"
   }
 }
